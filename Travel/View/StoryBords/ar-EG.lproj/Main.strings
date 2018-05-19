@@ -1,0 +1,120 @@
+
+/* Class = "UIButton"; normalTitle = "Past Trips"; ObjectID = "30k-4C-jV0"; */
+"30k-4C-jV0.normalTitle" = "Past Trips";
+
+/* Class = "UILabel"; text = "550 going"; ObjectID = "8jP-Lo-IYV"; */
+"8jP-Lo-IYV.text" = "550 going";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "ArF-Ol-396"; */
+"ArF-Ol-396.text" = "Name";
+
+/* Class = "UILabel"; text = "Phon"; ObjectID = "BYr-gw-Zs2"; */
+"BYr-gw-Zs2.text" = "Phon";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "D3M-wv-dK0"; */
+"D3M-wv-dK0.text" = "Label";
+
+/* Class = "UILabel"; text = "Gender"; ObjectID = "HbO-tl-lcM"; */
+"HbO-tl-lcM.text" = "Gender";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "L0C-1c-ewa"; */
+"L0C-1c-ewa.title" = "Item";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "LgA-vt-WGV"; */
+"LgA-vt-WGV.title" = "Item";
+
+/* Class = "UILabel"; text = "150"; ObjectID = "MrX-27-UF4"; */
+"MrX-27-UF4.text" = "150";
+
+/* Class = "UILabel"; text = "350$"; ObjectID = "O0p-as-hW7"; */
+"O0p-as-hW7.text" = "350$";
+
+/* Class = "UILabel"; text = "Agent Name"; ObjectID = "PS0-JL-qnJ"; */
+"PS0-JL-qnJ.text" = "Agent Name";
+
+/* Class = "UILabel"; text = "550 going"; ObjectID = "RWe-lX-23f"; */
+"RWe-lX-23f.text" = "550 going";
+
+/* Class = "UILabel"; text = "27 "; ObjectID = "U8V-Bi-USJ"; */
+"U8V-Bi-USJ.text" = "27 ";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "Wvu-pM-6L7"; */
+"Wvu-pM-6L7.text" = "Email";
+
+/* Class = "UILabel"; text = "Trip Name"; ObjectID = "Zyv-oK-bxl"; */
+"Zyv-oK-bxl.text" = "Trip Name";
+
+/* Class = "UILabel"; text = "302 Going"; ObjectID = "adw-pZ-KoJ"; */
+"adw-pZ-KoJ.text" = "302 Going";
+
+/* Class = "UILabel"; text = "Trip Name"; ObjectID = "axS-2N-RRm"; */
+"axS-2N-RRm.text" = "Trip Name";
+
+/* Class = "UILabel"; text = "27"; ObjectID = "bno-Ri-YFh"; */
+"bno-Ri-YFh.text" = "27";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cPL-dT-aIX"; */
+"cPL-dT-aIX.text" = "Label";
+
+/* Class = "UILabel"; text = "Trip Name"; ObjectID = "cmF-Vq-TUT"; */
+"cmF-Vq-TUT.text" = "Trip Name";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dAn-jd-vTz"; */
+"dAn-jd-vTz.text" = "Label";
+
+/* Class = "UILabel"; text = "User Name"; ObjectID = "fcE-KY-dRt"; */
+"fcE-KY-dRt.text" = "User Name";
+
+/* Class = "UILabel"; text = "Explore"; ObjectID = "hCV-Be-v1Q"; */
+"hCV-Be-v1Q.text" = "ابحث";
+
+/* Class = "UILabel"; text = "Dec"; ObjectID = "kGe-MQ-Be3"; */
+"kGe-MQ-Be3.text" = "Dec";
+
+/* Class = "UILabel"; text = "Sinai"; ObjectID = "kne-9w-X3V"; */
+"kne-9w-X3V.text" = "Sinai";
+
+/* Class = "UILabel"; text = "City Name"; ObjectID = "lXg-UV-9MC"; */
+"lXg-UV-9MC.text" = "City Name";
+
+/* Class = "UILabel"; text = "DEC"; ObjectID = "nP2-wf-FVE"; */
+"nP2-wf-FVE.text" = "DEC";
+
+/* Class = "UIButton"; normalTitle = "follower"; ObjectID = "nPW-Z7-8J7"; */
+"nPW-Z7-8J7.normalTitle" = "المتابعين";
+
+/* Class = "UILabel"; text = "3"; ObjectID = "oKD-1I-aYV"; */
+"oKD-1I-aYV.text" = "3";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "oMz-5K-DwQ"; */
+"oMz-5K-DwQ.text" = "Label";
+
+/* Class = "UILabel"; text = "AgentName"; ObjectID = "pMa-xb-mjB"; */
+"pMa-xb-mjB.text" = "AgentName";
+
+/* Class = "UILabel"; text = "27 "; ObjectID = "q8a-Xr-I8R"; */
+"q8a-Xr-I8R.text" = "27 ";
+
+/* Class = "UILabel"; text = "Dec"; ObjectID = "qRc-Ld-24V"; */
+"qRc-Ld-24V.text" = "Dec";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "rqX-n2-BRe"; */
+"rqX-n2-BRe.text" = "Label";
+
+/* Class = "UILabel"; text = "350$"; ObjectID = "tkl-Ne-eFc"; */
+"tkl-Ne-eFc.text" = "350$";
+
+/* Class = "UISearchBar"; placeholder = "Search here"; ObjectID = "tl0-Xg-uO8"; */
+"tl0-Xg-uO8.placeholder" = "ابحث هنا";
+
+/* Class = "UILabel"; text = "My Trips"; ObjectID = "uL8-uE-WgZ"; */
+"uL8-uE-WgZ.text" = "رحلاتي";
+
+/* Class = "UILabel"; text = "title"; ObjectID = "w0N-ie-wkw"; */
+"w0N-ie-wkw.text" = "العنوان";
+
+/* Class = "UIButton"; normalTitle = "report"; ObjectID = "yIe-2M-QXc"; */
+"yIe-2M-QXc.normalTitle" = "تقرير";
+
+/* Class = "UIButton"; normalTitle = "Filter  "; ObjectID = "zm1-7h-CCM"; */
+"zm1-7h-CCM.normalTitle" = "فلتر  ";
